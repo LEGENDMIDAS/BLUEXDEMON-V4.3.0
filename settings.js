@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "4915124719433"
+global.pairingNumber = "639092996779"
 
 
 
